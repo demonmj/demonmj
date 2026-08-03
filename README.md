@@ -16,7 +16,7 @@
 
 <p>🔐 Focused on <b>Cybersecurity & Ethical Hacking</b></p>
 <p>☁️ Targeting <b>Cloud Security Engineering</b> & <b>DevSecOps</b></p>
-<p>🧪 Learning by building — AI/ML pipelines & full-stack systems</p>
+
 
 
 <br clear="both"/>
