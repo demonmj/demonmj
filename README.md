@@ -55,10 +55,10 @@
 
 <div align="center">
 
-[![Security+](https://img.shields.io/badge/STUDYING-COMPTIA%20SECURITY%2B-ff2ec4?style=for-the-badge&labelColor=0d0221)](https://www.comptia.org/certifications/security)
-[![Networking](https://img.shields.io/badge/LEARNING-NETWORKING%20FUNDAMENTALS-00fff2?style=for-the-badge&labelColor=0d0221)](https://www.cisco.com/c/en/us/training-events/training-certifications/training/networking-basics.html)
-[![TryHackMe](https://img.shields.io/badge/PRACTICING-TRYHACKME-39ff9d?style=for-the-badge&labelColor=0d0221)](https://tryhackme.com/)
-[![SQL](https://img.shields.io/badge/LEARNING-SQL-ff2ec4?style=for-the-badge&labelColor=0d0221)](https://www.w3schools.com/sql/)
+[![Security+](https://img.shields.io/badge/STUDYING-COMPTIA%20SECURITY%2B-ff2ec4?style=flat-square&logo=comptia&logoColor=white&labelColor=0d0221)](https://www.comptia.org/certifications/security)
+[![Networking](https://img.shields.io/badge/LEARNING-NETWORKING%20FUNDAMENTALS-00fff2?style=flat-square&logo=cisco&logoColor=white&labelColor=0d0221)](https://www.cisco.com/c/en/us/training-events/training-certifications/training/networking-basics.html)
+[![TryHackMe](https://img.shields.io/badge/PRACTICING-TRYHACKME-39ff9d?style=flat-square&logo=tryhackme&logoColor=white&labelColor=0d0221)](https://tryhackme.com/)
+[![SQL](https://img.shields.io/badge/LEARNING-SQL-ff2ec4?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d0221)](https://www.w3schools.com/sql/)
 
 </div>
 
