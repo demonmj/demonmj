@@ -1,25 +1,29 @@
-<div align="center">
+<div>
 
 <a href="https://github.com/demonmj">
-  <img src="assets/profile-printing.svg" alt="printing identity..." width="420" align="left" />
+  <img src="assets/profile-printing.svg" alt="printing identity..." width="400" align="left" style="margin-right: 30px;" />
 </a>
 
-<br/><br/><br/><br/>
+<br/>
 
-<a href="mailto:mohammed.ju2006@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-mohammed.ju2006%40gmail.com-0d0221?style=for-the-badge&logo=gmail&logoColor=ff2ec4&labelColor=0d0221" alt="Email" />
-</a>
-<br/><br/>
-<a href="https://www.linkedin.com/in/mohammed-junaid2006/">
-  <img src="https://img.shields.io/badge/LINKEDIN-mohammed--junaid2006-0d0221?style=for-the-badge&logo=linkedin&logoColor=00fff2&labelColor=0d0221" alt="LinkedIn" />
-</a>
-<br/><br/>
-<a href="https://github.com/demonmj">
-  <img src="https://img.shields.io/badge/GITHUB-demonmj-0d0221?style=for-the-badge&logo=github&logoColor=39ff9d&labelColor=0d0221" alt="GitHub" />
-</a>
+### 👾 SYSTEM_ACCESS_GRANTED
+**`USER:`** `Mohammed_Junaid` // `[demonmj]`<br/>
+**`BASE:`** `Bengaluru, IN`<br/>
+**`CLASS:`** `B.Tech CS '28`<br/>
+**`FOCUS:`** `Cybersecurity & DevSecOps`<br/>
+**`STATUS:`** `Compiling future...`<br/>
+
+<br/>
+
+> *"Security is a process, not a product."*
 
 <br clear="both"/>
+
+</div>
+
 <br/>
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=demonmj&label=PROFILE+VIEWS&color=ff2ec4&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/demonmj?label=FOLLOWERS&style=for-the-badge&color=00fff2&labelColor=0d0221" alt="followers"/>
@@ -109,6 +113,18 @@ AI-powered pothole detection & road severity classification — a YOLOv8 + OpenC
 
 <br/>
 
+## 🤝 Connect // Collaborate
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:1a0533,100:0D0221&height=140&section=footer&text=connect%20//%20collaborate%20//%20hack%20the%20planet&fontSize=18&fontColor=00fff2&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+[![Email](https://img.shields.io/badge/EMAIL-mohammed.ju2006%40gmail.com-0d0221?style=for-the-badge&logo=gmail&logoColor=ff2ec4&labelColor=0d0221)](mailto:mohammed.ju2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-mohammed--junaid2006-0d0221?style=for-the-badge&logo=linkedin&logoColor=00fff2&labelColor=0d0221)](https://www.linkedin.com/in/mohammed-junaid2006/)
+[![GitHub](https://img.shields.io/badge/GITHUB-demonmj-0d0221?style=for-the-badge&logo=github&logoColor=39ff9d&labelColor=0d0221)](https://github.com/demonmj)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:1a0533,100:0D0221&height=140&section=footer&text=hack%20the%20planet&fontSize=18&fontColor=00fff2&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
