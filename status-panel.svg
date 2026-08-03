@@ -1,0 +1,54 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050208"/>
+      <stop offset="100%" stop-color="#120524"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00fff2"/>
+      <stop offset="50%" stop-color="#ff2ec4"/>
+      <stop offset="100%" stop-color="#00fff2"/>
+    </linearGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#1c1236" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2.6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="300" rx="6" fill="url(#bg)"/>
+  <rect width="900" height="300" rx="6" fill="url(#grid)" opacity="0.5"/>
+  <rect x="1" y="1" width="898" height="298" rx="6" fill="none" stroke="url(#borderGrad)" stroke-width="2"/>
+
+  <text x="60" y="46" font-family="Consolas, 'Courier New', monospace" font-size="20" fill="#00fff2" filter="url(#glow)">root@demonmj:~$ ./system_status.sh</text>
+  <circle cx="860" cy="40" r="6" fill="#39ff9d">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="842" y="45" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#39ff9d" text-anchor="end">LIVE</text>
+
+  <line x1="60" y1="60" x2="840" y2="60" stroke="#ff2ec4" stroke-width="1" opacity="0.6"/>
+
+  
+    <text x="60" y="118" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#39ff9d">USER</text>
+    <text x="360" y="118" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#00fff2">demonmj</text>
+    <line x1="60" y1="130" x2="840" y2="130" stroke="#1c1236" stroke-width="1"/>
+    <text x="60" y="148" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#39ff9d">UPTIME</text>
+    <text x="360" y="148" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#00fff2">1948 days since account init</text>
+    <line x1="60" y1="160" x2="840" y2="160" stroke="#1c1236" stroke-width="1"/>
+    <text x="60" y="178" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#39ff9d">PUBLIC_REPOS</text>
+    <text x="360" y="178" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#00fff2">3</text>
+    <line x1="60" y1="190" x2="840" y2="190" stroke="#1c1236" stroke-width="1"/>
+    <text x="60" y="208" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#39ff9d">FOLLOWERS / FOLLOWING</text>
+    <text x="360" y="208" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#00fff2">2 / 3</text>
+    <line x1="60" y1="220" x2="840" y2="220" stroke="#1c1236" stroke-width="1"/>
+    <text x="60" y="238" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#39ff9d">LAST_ACTIVITY</text>
+    <text x="360" y="238" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#00fff2">push @ demonmj/demonmj</text>
+    <line x1="60" y1="250" x2="840" y2="250" stroke="#1c1236" stroke-width="1"/>
+    <text x="60" y="268" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#39ff9d">SYSTEM_TIME</text>
+    <text x="360" y="268" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#00fff2">2026-08-03 06:22:52 UTC</text>
+    <line x1="60" y1="280" x2="840" y2="280" stroke="#1c1236" stroke-width="1"/>
+
+  <text x="60" y="276" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#7a7a9a">auto-refreshed by .github/workflows/status-panel.yml</text>
+</svg>
