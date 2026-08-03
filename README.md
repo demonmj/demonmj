@@ -1,21 +1,23 @@
 <div>
 
 <a href="https://github.com/demonmj">
-  <img src="assets/profile-printing.svg" alt="printing identity..." width="400" align="left" style="margin-right: 30px;" />
+  <img src="assets/profile-printing.svg" alt="printing identity..." width="380" align="left" style="margin-right: 40px; margin-bottom: 20px;" />
 </a>
 
 <br/>
 
-### 👾 SYSTEM_ACCESS_GRANTED
-**`USER:`** `Mohammed_Junaid` // `[demonmj]`<br/>
-**`BASE:`** `Bengaluru, IN`<br/>
-**`CLASS:`** `B.Tech CS '28`<br/>
-**`FOCUS:`** `Cybersecurity & DevSecOps`<br/>
-**`STATUS:`** `Compiling future...`<br/>
+## ⚡ Mohammed Junaid
+#### Cybersecurity | Cloud Security | DevSecOps
+
+> *"Security is a process, not a product."* — Bruce Schneier
 
 <br/>
 
-> *"Security is a process, not a product."*
+<p>🎓 <b>B.Tech Computer Science</b> student</p>
+<p>🔐 Focused on <b>Cybersecurity & Ethical Hacking</b></p>
+<p>☁️ Targeting <b>Cloud Security Engineering</b> & <b>DevSecOps</b></p>
+<p>🧪 Learning by building — AI/ML pipelines & full-stack systems</p>
+<p>📍 Based in Bengaluru, India</p>
 
 <br clear="both"/>
 
@@ -29,15 +31,6 @@
 <img src="https://img.shields.io/github/followers/demonmj?label=FOLLOWERS&style=for-the-badge&color=00fff2&labelColor=0d0221" alt="followers"/>
 
 </div>
-
-<br/>
-
-## 🧬 About Me
-
-- 🎓 B.Tech Computer Science student
-- 🔐 Focused on **Cybersecurity & Ethical Hacking**
-- ☁️ Targeting **Cloud Security Engineering** and **DevSecOps** as primary career paths
-- 🧪 Learning by building — AI/ML pipelines, full-stack systems, and security fundamentals
 
 <br/>
 
