@@ -16,7 +16,7 @@
 
 <p>🔐 Focused on <b>Cybersecurity & Ethical Hacking</b></p>
 <p>☁️ Targeting <b>Cloud Security Engineering</b> & <b>DevSecOps</b></p>
-
+<p>🧪 Learning by building — AI/ML pipelines & full-stack systems</p>
 
 
 <br clear="both"/>
@@ -37,7 +37,16 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,postgres,git,github,linux,bash,vscode&theme=dark" />
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
+  <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" /></a>
 </div>
 
 <br/>
