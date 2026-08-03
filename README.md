@@ -55,10 +55,10 @@
 
 <div align="center">
 
-![Security+](https://img.shields.io/badge/STUDYING-CompTIA%20Security%2B-0d0221?style=for-the-badge&labelColor=0d0221&color=ff2ec4)
-![Networking](https://img.shields.io/badge/LEARNING-Networking%20Fundamentals-0d0221?style=for-the-badge&labelColor=0d0221&color=00fff2)
-![TryHackMe](https://img.shields.io/badge/PRACTICING-TryHackMe-0d0221?style=for-the-badge&labelColor=0d0221&color=39ff9d)
-![SQL](https://img.shields.io/badge/LEARNING-SQL-0d0221?style=for-the-badge&labelColor=0d0221&color=ff2ec4)
+![Security+](https://img.shields.io/badge/STUDYING-COMPTIA%20SECURITY%2B-ff2ec4?style=for-the-badge&labelColor=0d0221)
+![Networking](https://img.shields.io/badge/LEARNING-NETWORKING%20FUNDAMENTALS-00fff2?style=for-the-badge&labelColor=0d0221)
+![TryHackMe](https://img.shields.io/badge/PRACTICING-TRYHACKME-39ff9d?style=for-the-badge&labelColor=0d0221)
+![SQL](https://img.shields.io/badge/LEARNING-SQL-ff2ec4?style=for-the-badge&labelColor=0d0221)
 
 </div>
 
@@ -129,16 +129,6 @@ AI-powered pothole detection & road severity classification — a YOLOv8 + OpenC
   &nbsp;&nbsp;
   <a href="mailto:your-email@example.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" height="40"/>
-  </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/demonmj">
-    <img src="https://img.shields.io/badge/GITHUB-demonmj-0d0221?style=for-the-badge&logo=github&logoColor=39ff9d&labelColor=0d0221" alt="GitHub Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0d0221?style=for-the-badge&logo=linkedin&logoColor=ff2ec4&labelColor=0d0221" alt="LinkedIn Badge"/>
   </a>
 
 </div>
