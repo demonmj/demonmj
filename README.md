@@ -119,9 +119,27 @@ AI-powered pothole detection & road severity classification — a YOLOv8 + OpenC
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-mohammed.ju2006%40gmail.com-0d0221?style=for-the-badge&logo=gmail&logoColor=ff2ec4&labelColor=0d0221)](mailto:mohammed.ju2006@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-mohammed--junaid2006-0d0221?style=for-the-badge&logo=linkedin&logoColor=00fff2&labelColor=0d0221)](https://www.linkedin.com/in/mohammed-junaid2006/)
-[![GitHub](https://img.shields.io/badge/GITHUB-demonmj-0d0221?style=for-the-badge&logo=github&logoColor=39ff9d&labelColor=0d0221)](https://github.com/demonmj)
+  <a href="mailto:mohammed.ju2006@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohammed-junaid2006/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/demonmj">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" height="40"/>
+  </a>
+
+  <br/><br/>
+
+  <a href="mailto:mohammed.ju2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mohammed.ju2006%40gmail.com-0d0221?style=for-the-badge&logo=gmail&logoColor=00fff2&labelColor=0d0221" alt="Email Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mohammed-junaid2006/">
+    <img src="https://img.shields.io/badge/LinkedIn-mohammed--junaid2006-0d0221?style=for-the-badge&logo=linkedin&logoColor=ff2ec4&labelColor=0d0221" alt="LinkedIn Badge"/>
+  </a>
 
 </div>
 
