@@ -1,29 +1,24 @@
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <!-- 🖨️ profile photo "printing" out of a terminal -->
-      <img src="assets/profile-printing.svg" alt="printing identity..." width="420"/>
-    </td>
-    <td align="center" width="50%" valign="middle">
-      <br/>
-      <a href="mailto:mohammed.ju2006@gmail.com">
-        <img src="https://img.shields.io/badge/EMAIL-mohammed.ju2006%40gmail.com-0d0221?style=for-the-badge&logo=gmail&logoColor=ff2ec4&labelColor=0d0221" alt="Email"/>
-      </a>
-      <br/><br/>
-      <a href="https://www.linkedin.com/in/mohammed-junaid2006/">
-        <img src="https://img.shields.io/badge/LINKEDIN-mohammed--junaid2006-0d0221?style=for-the-badge&logo=linkedin&logoColor=00fff2&labelColor=0d0221" alt="LinkedIn"/>
-      </a>
-      <br/><br/>
-      <a href="https://github.com/demonmj">
-        <img src="https://img.shields.io/badge/GITHUB-demonmj-0d0221?style=for-the-badge&logo=github&logoColor=39ff9d&labelColor=0d0221" alt="GitHub"/>
-      </a>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/demonmj">
+  <img src="assets/profile-printing.svg" alt="printing identity..." width="420" align="left" />
+</a>
 
+<br/><br/><br/><br/>
+
+<a href="mailto:mohammed.ju2006@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-mohammed.ju2006%40gmail.com-0d0221?style=for-the-badge&logo=gmail&logoColor=ff2ec4&labelColor=0d0221" alt="Email" />
+</a>
+<br/><br/>
+<a href="https://www.linkedin.com/in/mohammed-junaid2006/">
+  <img src="https://img.shields.io/badge/LINKEDIN-mohammed--junaid2006-0d0221?style=for-the-badge&logo=linkedin&logoColor=00fff2&labelColor=0d0221" alt="LinkedIn" />
+</a>
+<br/><br/>
+<a href="https://github.com/demonmj">
+  <img src="https://img.shields.io/badge/GITHUB-demonmj-0d0221?style=for-the-badge&logo=github&logoColor=39ff9d&labelColor=0d0221" alt="GitHub" />
+</a>
+
+<br clear="both"/>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=demonmj&label=PROFILE+VIEWS&color=ff2ec4&style=for-the-badge" alt="profile views"/>
