@@ -1,0 +1,77 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="hbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050208"/>
+      <stop offset="100%" stop-color="#120524"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00fff2"/>
+      <stop offset="55%" stop-color="#ff2ec4"/>
+      <stop offset="100%" stop-color="#00fff2"/>
+      <animate attributeName="x1" values="-20%;120%;-20%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="80%;220%;80%" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="hGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="hgrid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#1c1236" stroke-width="1"/>
+    </pattern>
+    <clipPath id="typeClip">
+      <rect x="0" y="0" width="0" height="40">
+        <animate attributeName="width" values="0;620;620;620;0;0" keyTimes="0;0.28;0.55;0.90;0.97;1" dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect width="1000" height="260" fill="url(#hbg)"/>
+  <rect width="1000" height="260" fill="url(#hgrid)" opacity="0.5"/>
+
+  <!-- horizon glow line -->
+  <line x1="0" y1="214" x2="1000" y2="214" stroke="#ff2ec4" stroke-width="1.5" opacity="0.55" filter="url(#hGlow)"/>
+
+  <!-- corner HUD brackets -->
+  <g stroke="#00fff2" stroke-width="2" fill="none" opacity="0.85" filter="url(#hGlow)">
+    <path d="M 18 40 L 18 16 L 42 16"/>
+    <path d="M 958 16 L 982 16 L 982 40"/>
+    <path d="M 982 220 L 982 244 L 958 244"/>
+    <path d="M 42 244 L 18 244 L 18 220"/>
+  </g>
+
+  <!-- scan sweep -->
+  <rect x="0" y="0" width="1000" height="4" fill="#00fff2" opacity="0.5" filter="url(#hGlow)">
+    <animate attributeName="y" values="0;260;0" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- glitch layers behind main title -->
+  <text x="80" y="118" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="58" fill="#00fff2" opacity="0.55">
+    MOHAMMED JUNAID
+    <animate attributeName="x" values="80;77;83;80;80;80" keyTimes="0;0.02;0.04;0.06;0.5;1" dur="7s" repeatCount="indefinite"/>
+  </text>
+  <text x="80" y="118" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="58" fill="#ff2ec4" opacity="0.55">
+    MOHAMMED JUNAID
+    <animate attributeName="x" values="80;83;77;80;80;80" keyTimes="0;0.02;0.04;0.06;0.5;1" dur="7s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- main title -->
+  <text x="80" y="118" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="58" fill="url(#titleGrad)" filter="url(#hGlow)">MOHAMMED JUNAID</text>
+
+  <!-- prompt -->
+  <text x="82" y="160" font-family="Consolas, 'Courier New', monospace" font-size="20" fill="#39ff9d">root@demonmj:~$<tspan fill="#00fff2"> ./whoami.sh</tspan></text>
+
+  <!-- typewriter subtitle cycling -->
+  <g clip-path="url(#typeClip)">
+    <text x="82" y="200" font-family="Consolas, 'Courier New', monospace" font-size="24" fill="#00fff2">&gt; Cybersecurity &amp; Cloud Security | DevSecOps engineer-in-training</text>
+  </g>
+  <rect x="82" y="184" width="3" height="22" fill="#ff2ec4">
+    <animate attributeName="x" values="82;702;702;82;82" keyTimes="0;0.28;0.9;0.97;1" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;1;0;1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- blinking status dot -->
+  <circle cx="960" cy="40" r="6" fill="#39ff9d">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="942" y="45" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#39ff9d" text-anchor="end">ONLINE</text>
+</svg>
