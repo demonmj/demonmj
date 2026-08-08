@@ -7,17 +7,13 @@
 <br/>
 
 ## ⚡ Mohammed Junaid
-#### Cybersecurity | Cloud Security | DevSecOps
 
-> *"Security is a process, not a product."* — Bruce Schneier
-
-<br/>
-
-
-<p>🔐 Focused on <b>Cybersecurity & Ethical Hacking</b></p>
-<p>☁️ Targeting <b>Cloud Security Engineering</b> & <b>DevSecOps</b></p>
-<p>🧪 Learning by building — AI/ML pipelines & full-stack systems</p>
-
+```
+$ sudo access --level=root
+[■■■■■■■■■■■■■■■■■■■■] 100%
+> ACCESS GRANTED
+> 404: bio not found — running on caffeine & curiosity
+```
 
 <br clear="both"/>
 
