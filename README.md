@@ -7,7 +7,8 @@
 <img src="assets/links.svg" width="100%" alt="demonmj@github ~ $ ./links.sh — Developer · AI/ML Learner · Builder" />
 
 <a href="https://github.com/demonmj"><img src="https://img.shields.io/badge/github-demonmj-30363d?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="GitHub" /></a>
-<a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/practicing-tryhackme-238636?style=flat-square&logo=tryhackme&logoColor=white&labelColor=161b22" alt="TryHackMe" /></a>
+<a href="https://github.com/demonmj?tab=repositories"><img src="https://img.shields.io/badge/learning-ai%2Fml-238636?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=161b22" alt="Learning AI/ML" />
+</a>
 <img src="https://img.shields.io/github/followers/demonmj?label=followers&style=flat-square&color=1f6feb&labelColor=161b22" alt="followers" />
 <img src="https://komarev.com/ghpvc/?username=demonmj&label=profile%20views&color=da3633&style=flat-square" alt="profile views" />
 <!-- Add your own links (remove the comment markers):
