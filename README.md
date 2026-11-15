@@ -4,7 +4,7 @@
 
 <img src="assets/whoami.svg" width="100%" alt="demonmj@github ~ $ whoami — ASCII portrait, streaks and monthly contributions" />
 
-<img src="assets/links.svg" width="100%" alt="demonmj@github ~ $ ./links.sh — Developer · Cybersecurity Learner · AI/ML Builder" />
+<img src="assets/links.svg" width="100%" alt="demonmj@github ~ $ ./links.sh — Developer · AI/ML Learner · Builder" />
 
 <a href="https://github.com/demonmj"><img src="https://img.shields.io/badge/github-demonmj-30363d?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="GitHub" /></a>
 <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/practicing-tryhackme-238636?style=flat-square&logo=tryhackme&logoColor=white&labelColor=161b22" alt="TryHackMe" /></a>
