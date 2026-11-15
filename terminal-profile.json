@@ -2,10 +2,10 @@
   "username": "demonmj",
   "prompt_user": "demonmj",
   "host": "github",
-  "tagline": "Developer · Cybersecurity Learner · AI/ML Builder",
+  "tagline": "Developer · AI/ML Learner · Builder",
   "lines": [
     ["stack", "python · javascript · react · node · postgres · linux · bash"],
-    ["learning", "security+ · networking · tryhackme · sql"],
+    ["learning", "machine learning · deep learning · computer vision · nlp"],
     ["status", "running on caffeine & curiosity"]
   ]
 }
