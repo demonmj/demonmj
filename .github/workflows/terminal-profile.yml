@@ -1,0 +1,47 @@
+name: Terminal profile
+
+on:
+  schedule:
+    - cron: "41 23 * * *"   # daily, 05:11 IST
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/terminal_profile.py"
+      - "terminal-profile.json"
+      - "assets/portrait.*"
+      - ".github/workflows/terminal-profile.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: terminal-profile
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Pillow
+        run: pip install pillow
+
+      - name: Render SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/terminal_profile.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contributions.svg assets/whoami.svg assets/links.svg
+          if git commit -m "chore: refresh terminal profile"; then
+            git push
+          fi
