@@ -4,8 +4,8 @@
 </style>
 <rect width="840" height="158" rx="10" fill="#0d1117"/>
 <text x="420.0" y="30" text-anchor="middle" font-size="14" font-weight="700" fill="#e6edf3"><tspan fill="#3fb950">demonmj@github</tspan><tspan fill="#7d8590"> ~ $ </tspan>./links.sh</text><rect class="cur" x="545.8" y="18" width="8" height="15" fill="#e6edf3"/>
-<text class="fade" x="420.0" y="60" text-anchor="middle" font-size="13" font-weight="700" fill="#e6edf3">Developer · Cybersecurity Learner · AI/ML Builder</text>
+<text class="fade" x="420.0" y="60" text-anchor="middle" font-size="13" font-weight="700" fill="#e6edf3">Developer · AI/ML Learner · Builder</text>
 <text class="fade" style="animation-delay:0.20s" x="420.0" y="88" text-anchor="middle" font-size="12" fill="#7d8590"><tspan fill="#3fb950">stack</tspan> → <tspan fill="#c9d1d9">python · javascript · react · node · postgres · linux · bash</tspan></text>
-<text class="fade" style="animation-delay:0.35s" x="420.0" y="110" text-anchor="middle" font-size="12" fill="#7d8590"><tspan fill="#3fb950">learning</tspan> → <tspan fill="#c9d1d9">security+ · networking · tryhackme · sql</tspan></text>
+<text class="fade" style="animation-delay:0.35s" x="420.0" y="110" text-anchor="middle" font-size="12" fill="#7d8590"><tspan fill="#3fb950">learning</tspan> → <tspan fill="#c9d1d9">machine learning · deep learning · computer vision · nlp</tspan></text>
 <text class="fade" style="animation-delay:0.50s" x="420.0" y="132" text-anchor="middle" font-size="12" fill="#7d8590"><tspan fill="#3fb950">status</tspan> → <tspan fill="#c9d1d9">running on caffeine &amp; curiosity</tspan></text>
 </svg>
